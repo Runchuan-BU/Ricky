@@ -1,1 +1,1 @@
-# Ricky
+# Story GPT language model
